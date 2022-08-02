@@ -1,14 +1,14 @@
 # Ramireddy Chandra Sekhar Reddy
 <div align="center">
-<a href="https://github.com/chandusekha/chandusekha/stargazers"><img src="https://img.shields.io/github/stars/chandusekha/chandusekha" alt="Stars Badge"/></a>
-<a href="https://github.com/chandusekha/chandusekha/network/members"><img src="https://img.shields.io/github/forks/chandusekha/chandusekha" alt="Forks Badge"/></a>
-<a href="https://github.com/chandusekha/chandusekha/pulls"><img src="https://img.shields.io/github/issues-pr/chandusekha/chandusekha" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/chandusekha/chandusekha/issues"><img src="https://img.shields.io/github/issues/chandusekha/chandusekha" alt="Issues Badge"/></a>
-<a href="https://github.com/chandusekha/chandusekha/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/chandusekha/chandusekha?color=2b9348"></a>
-<a href="https://github.com/chandusekha/chandusekha/blob/master/LICENSE"><img src="https://img.shields.io/github/license/chandusekha/chandusekha?color=2b9348" alt="License Badge"/></a>
+<a href="https://github.com/ramireddychandra/ramireddychandra/stargazers"><img src="https://img.shields.io/github/stars/ramireddychandra/ramireddychandra" alt="Stars Badge"/></a>
+<a href="https://github.com/ramireddychandra/ramireddychandra/network/members"><img src="https://img.shields.io/github/forks/ramireddychandra/ramireddychandra" alt="Forks Badge"/></a>
+<a href="https://github.com/ramireddychandra/chandusekha/pulls"><img src="https://img.shields.io/github/issues-pr/ramireddychandra/ramireddychandra" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/ramireddychandra/chandusekha/issues"><img src="https://img.shields.io/github/issues/ramireddychandra/ramireddychandra" alt="Issues Badge"/></a>
+<a href="https://github.com/chandusekha/chandusekha/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/ramireddychandra/ramireddychandra?color=2b9348"></a>
+<a href="https://github.com/ramireddychandra/ramireddychandra/blob/master/LICENSE"><img src="https://img.shields.io/github/license/ramireddychandra/ramireddychandra?color=2b9348" alt="License Badge"/></a>
 
 ### Hi there, This is Ramireddy Chandra Sekhar Reddy 
-<img align='left' src="https://media.giphy.com/media/pmqaQproKGQ6v02O1n/giphy.gif" width="250"> <div align = 'right'>![](https://komarev.com/ghpvc/?username=chandusekha&color=yellow) <p><em> 
+<img align='left' src="https://media.giphy.com/media/pmqaQproKGQ6v02O1n/giphy.gif" width="250"> <div align = 'right'>![](https://komarev.com/ghpvc/?username=ramireddychandra&color=yellow) <p><em> 
 
 
 </em></p> </div>
