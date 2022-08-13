@@ -4,7 +4,7 @@
 <a href="https://github.com/ramireddychandra/ramireddychandra/network/members"><img src="https://img.shields.io/github/forks/ramireddychandra/ramireddychandra" alt="Forks Badge"/></a>
 <a href="https://github.com/ramireddychandra/chandusekha/pulls"><img src="https://img.shields.io/github/issues-pr/ramireddychandra/ramireddychandra" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/ramireddychandra/chandusekha/issues"><img src="https://img.shields.io/github/issues/ramireddychandra/ramireddychandra" alt="Issues Badge"/></a>
-<a href="https://github.com/chandusekha/chandusekha/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/ramireddychandra/ramireddychandra?color=2b9348"></a>
+<a href="https://github.com/ramireddychandra/ramireddychandra/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/ramireddychandra/ramireddychandra?color=2b9348"></a>
 <a href="https://github.com/ramireddychandra/ramireddychandra/blob/master/LICENSE"><img src="https://img.shields.io/github/license/ramireddychandra/ramireddychandra?color=2b9348" alt="License Badge"/></a>
 
 ### Hi there, This is Ramireddy Chandra Sekhar Reddy 
@@ -35,7 +35,7 @@
 <img src="https://media.giphy.com/media/hO8uTzEOefFh3Yv5gm/giphy.gif" width="150">
 </div>
 <hr>
-<p align= "center"><img src="https://github-readme-stats.vercel.app/api?username=chandusekha&show_icons=true"></p>
+<p align= "center"><img src="https://github-readme-stats.vercel.app/api?username=ramireddychandra&show_icons=true"></p>
 <img src="https://media.giphy.com/media/jfI82bipeyWON5PKwZ/giphy.gif" width="100"/>
 
 - Linkedin : https://linkedin.com/in/ramireddychandu7
